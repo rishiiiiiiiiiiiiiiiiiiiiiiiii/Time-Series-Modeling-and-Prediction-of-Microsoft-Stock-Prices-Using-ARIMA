@@ -1,8 +1,6 @@
 # Time-Series-Modeling-and-Prediction-of-Microsoft-Stock-Prices-Using-ARIMA-Feb
 
 
-# Time Series Forecasting of Microsoft Stock Prices Using ARIMA Modeling
-
 ## Introduction
 
 This project aims to develop an accurate time series model for predicting the historical closing prices of Microsoft stock. By employing the ARIMA (Autoregressive Integrated Moving Average) modeling approach, the inherent patterns and seasonality present in the stock price data are captured, enabling reliable predictions within the given time frame.
